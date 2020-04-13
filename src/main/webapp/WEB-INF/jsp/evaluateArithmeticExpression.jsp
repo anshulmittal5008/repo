@@ -10,10 +10,10 @@
         <br/>
         <br/>
 
-        <form method="post" action="/arithmetic/evaluateArithmeticExpression">
+        <form method="post" action="evaluateArithmeticExpression">
             <table border=0 >
             <tr><td align="right">Enter Arithmetic Expression:</td><td align="left"><input type="text" name="arithmeticExpression" size="50"></input></td></tr>
-            <tr><td align="right"></td><td align="left"><input type="submit"></input></td></tr>
+            <tr><td align="right"></td><td align="left"><input type="submit" value="submit"></input></td></tr>
         </table>
     </form>
 
